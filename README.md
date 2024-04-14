@@ -10,7 +10,7 @@
             alt="Typing SVG" /></a>
 
   <h2 align="center">About Me</h2>
-  <p align="center">Greetings! I'm Kishan, a passionate FiveM/RedM developer from vibrant India. With six years of
+  <p align="center">Greetings! I'm Morvix, a passionate FiveM/RedM developer from vibrant India. With six years of
         experience, I craft virtual worlds with creativity and innovation. I partnered Bro Code, an organization where
         we drive our collective journey with these principles.</p>
 
