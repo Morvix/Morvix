@@ -9,27 +9,6 @@
             src="https://readme-typing-svg.demolab.com?font=Saira&weight=500&size=30&pause=1000&vCenter=true&random=false&width=335&lines=Hello%2C+Guys+I'm+Morvix"
             alt="Typing SVG" /></a>
 
-  <h2 align="center">About Me</h2>
-  <p align="center">Greetings! I'm Morvix, a passionate FiveM/RedM developer from vibrant India. With six years of
-        experience, I craft virtual worlds with creativity and innovation. I partnered Bro Code, an organization where
-        we drive our collective journey with these principles.</p>
-
-  ---
-
-  <h3 align="center">Current Projects</h3>
-
-  <p align="center">🤝 Open to collaborations and providing assistance where needed</p>
-<p align="center">🌐 Partnered By Bro Code</p>
-<p align="center">📡 Connect with us on Discord: <a href="https://discord.gg/zynG5RxvEU"><img
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-                alt="Discord" height="20" width="20" align="center"> Bro Code Discord</a></p>
-<b>OR</b>
-<p align="center">📡 Connect with us on Discord: <a href="https://discord.gg/wTprTUWgBQ"><img
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-                alt="Discord" height="20" width="20" align="center"> RageNation Discord</a></p>
-
-  ---
-
   <h3 align="center">Skills</h3>
 
 <p align="center">
