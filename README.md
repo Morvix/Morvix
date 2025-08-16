@@ -31,16 +31,7 @@
             height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
             alt="TypeScript" height="40">
-    </p>
-
-  ---
-
-<h3 align="center">Learning</h3>
-
-<p align="center">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" alt="Svelte"
-            height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java"
+  <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" alt="Svelte"
             height="40">
     </p>
 
