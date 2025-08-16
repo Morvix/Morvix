@@ -33,6 +33,8 @@
             alt="TypeScript" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" alt="Svelte"
             height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="Svelte"
+            height="40">
     </p>
 
   ---
