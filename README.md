@@ -42,6 +42,8 @@
   <p align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"
             height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original-wordmark.svg" alt="MySQL"
+            height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"
             alt="FireBase" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/surrealdb/surrealdb-original.svg"
