@@ -53,6 +53,10 @@
             height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"
             alt="FireBase" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/surrealdb/surrealdb-original.svg"
+            alt="FireBase" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"
+            alt="FireBase" height="40">
     </p>
 
   ---
